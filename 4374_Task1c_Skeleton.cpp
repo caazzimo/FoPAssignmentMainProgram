@@ -1,3 +1,7 @@
+// Callum Osborn - 24024223
+// Daniel Morris - 24009996
+// Pavel Mishkovich - 24011389
+
 //SKELETON PROGRAM
 //---------------------------------
 //include libraries
